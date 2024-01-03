@@ -1,4 +1,4 @@
-# -Python_Machine_Learning_Projects_FCC
+# Python_Machine_Learning_Projects_FCC
 
 This repo contains Python projects I have completed to obtain the certification of "Machine Learning with Python" offered by https://www.freecodecamp.org/
 
